@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/color_theory/static/css/main.e66ba7ec.css",
+    "main.js": "/color_theory/static/js/main.df4d0fbd.js",
+    "index.html": "/color_theory/index.html",
+    "main.e66ba7ec.css.map": "/color_theory/static/css/main.e66ba7ec.css.map",
+    "main.df4d0fbd.js.map": "/color_theory/static/js/main.df4d0fbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e66ba7ec.css",
+    "static/js/main.df4d0fbd.js"
+  ]
+}
